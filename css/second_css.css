@@ -1,0 +1,26 @@
+body {
+    background-color: #ff69b4;
+}
+
+h1 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #00ff00;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+li:nth-child(2n) {
+    background-color: #ff0000;
+}
+
+li:nth-child(2n+1) {
+    background-color: #0000ff;
+}

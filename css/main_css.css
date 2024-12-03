@@ -1,0 +1,24 @@
+body {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    animation: trippy 6s ease-in-out infinite;
+}
+
+h1 {
+    color: #000000;
+    animation: trippy 4s ease-in-out infinite;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    animation: trippy 2s ease-in-out infinite;
+}
+
+
+
